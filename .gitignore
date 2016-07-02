@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+
+Thumbs.db
+composer.lock
+Homestead.yaml
+Homestead.json
+
+.env
+.idea
+.project
+.DS_Store
