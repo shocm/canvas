@@ -12,11 +12,11 @@ return [
   | on sites such as Facebook and Twitter.
   |
   */
-  'name'            => 'Canvas',
-  'title'           => 'Canvas',
+  'name'            => 'DiegoDev Group Canvas',
+  'title'           => 'DiegoDev Group Canvas',
   'subtitle'        => 'Minimal Blogging App',
   'description'     => 'Blog',
-  'author'          => 'Todd Austin',
+  'author'          => 'Eric Van Johnson',
 
   /*
   |--------------------------------------------------------------------------
